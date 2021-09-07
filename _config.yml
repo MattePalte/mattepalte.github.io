@@ -23,6 +23,8 @@ author:
 #paginate_path:      '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
+back_page: null
+
 plugins:
 #  - jekyll-feed
   - jekyll-gist
