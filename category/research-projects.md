@@ -4,6 +4,12 @@ title: Research Projects
 ---
 
 <h3>Peer-Reviewed Publications</h3>
+<b>Bugs in Quantum Computing Platforms: An Empirical Study</b><br>
+Conditionally accepted in <a href="https://2022.splashcon.org/track/splash-2022-oopsla">Research Papers of ACM Conference on Object Oriented Programming Systems Languages and Applications</a> (OOPSLA ’22).<br>
+The interest in quantum computing is growing, and with it, the importance of software platforms to develop quantum programs. Ensuring the correctness of such platforms is important, and it requires a thorough understanding of the bugs they typically suffer from. To address this need, this paper presents the first in-depth study of bugs in quantum computing platforms. We gather and inspect a set of 223 real-world bugs from 18 open-source quantum computing platforms. Our study shows that a significant fraction of these bugs (39.9%) are quantum-specific, calling for dedicated approaches to prevent and find them. The bugs are spread across various components, but quantum-specific bugs occur particularly often in components that represent, compile, and optimize quantum programming abstractions. Many quantum-specific bugs manifest through unexpected outputs, rather than more obvious signs of misbehavior, such as crashes. Finally, we present a hierarchy of recurrent bug patterns, including ten novel, quantum-specific patterns. Our findings not only show the importance and prevalence bugs in quantum computing platforms, but they help developers to avoid common mistakes and tool builders to tackle the challenge of preventing, finding, and fixing these bugs.<br>
+[<a href="https://arxiv.org/abs/2110.14560">paper</a>]
+[<a href="https://github.com/MattePalte/Bugs-Quantum-Computing-Platforms/">dataset and code</a>]
+
 
 <b>Thinking Like a Developer? Comparing the Attention of Humans with Neural Models of Code</b><br>
 In <a href="https://conf.researchr.org/track/ase-2021/ase-2021-papers">Research Papers of IEEE/ACM International Conference on Automated Software Engineering</a> (ASE ’21).<br>
