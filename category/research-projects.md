@@ -25,3 +25,13 @@ Neural models of code are successfully tackling various prediction tasks, comple
 [<a href="https://software-lab.org/publications/ase2021.pdf">paper</a>]
 [<a href="https://github.com/MattePalte/thinking-like-a-developer">dataset and code</a>]
 ![Comparison of two attention maps](/assets/images/teaser_thinking_like_a_developer.png)
+
+
+<h3>Time Series Anomaly Detection for CERN Large-Scale Computing Infrastructure</h3><br>
+
+In <a href="https://cds.cern.ch/record/2752641">CERN Document Server</a> (CERN ’20).<br>
+Detecting anomalies in the CERN Data Center poses challenges due to its extensive computing infrastructure and vast data volume. Presently, anomaly spotting hinges on threshold-based alarms established by managers for performance metrics time series of each component. This study aims to simplify this intricate task by exploring automated machine learning solutions for anomaly detection. We primarily focus on unsupervised methods, considering both traditional and modern deep anomaly detection approaches. We propose novel time series-specific techniques and adapt traditional and deep learning methods for time series data, evaluating them using a comparative analysis. This research showcases the strengths of traditional methods for the specific CERN use case while highlighting deep methods' effectiveness for complex normal instance patterns. Additionally, we establish an annotation system to efficiently label time series data and offer two new datasets for anomaly detection. Alongside our study, we release an open-source proof-of-concept anomaly detection system.
+
+[<a href="https://cds.cern.ch/record/2752641">master thesis</a>]
+[<a href="https://gitlab.cern.ch/cloud-infrastructure/data-analytics/">code</a>]
+![Anomaly detection system](/assets/images/teaser_cern_anomaly_detection_paltenghi.png)
