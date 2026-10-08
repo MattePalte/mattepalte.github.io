@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            Matteo Paltenghi
-tagline:          Data Scientist for Software Analysis
-description:      Data Scientist for Software Analysis
+tagline:          Research Scientist in AI and Quantum
+description:      Research Scientist in AI and Quantum
 url:              matteopaltenghi.com
 #baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
@@ -32,7 +32,3 @@ plugins:
 
 # Sidebar link settings
 sidebar_home_link:  true
-#sidebar_blog_link:  '/blog'   # By default, your home page is your blog
-                                # page. If you change your paginate_path,
-                                # set this to the root of the paginate_path
-                                # to enable a separate blog link.

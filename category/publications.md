@@ -5,10 +5,18 @@ title: Publications
 
 [Full Google Scholar Profile](https://scholar.google.com/citations?user=L1VH9VMAAAAJ&hl=en)
 
-**[New] QITE: Assembly-Level, Cross-Platform Testing of Quantum Computing
-Platforms**.<br>
-M. Paltenghi and M. Pradel (Under Submission).
-[[Pre-print 2025]](https://arxiv.org/abs/2503.17322)
+**[New] REAP: Automatic Curation of Coding Agent Benchmarks from Interactive Production Usage**.<br>
+S. Jha\*, M. Paltenghi\*, et al. (Meta). ASE 2026 Industry Showcase. *equal contribution [[ASE 2026]](https://arxiv.org/abs/2604.01527)
+
+**[C9] IterTestQ: Assembly-Level, Cross-Platform Testing of Quantum Computing Platforms**.<br>
+M. Paltenghi and M. Pradel. ACM International Symposium on Software Testing and Analysis.
+[[ISSTA 2026]](https://software-lab.org/publications/issta2026_IterTestQ.pdf)
+
+**[New] Wink: Recovering from Misbehaviors in Coding Agents**.<br>
+R. Nanda, C. Maddila, S. Jha, E. Mehnaz Khan, M. Paltenghi, S. Chandra. ACM International Conference on AI-powered Software. [[AIware 2026]](https://arxiv.org/abs/2602.17037v1)
+
+**[New] Change And Cover: Last-Mile, Pull Request-Based Regression Test Augmentation**.<br>
+Z. Zhou, M. Paltenghi, M. Kim, M. Pradel. IEEE/ACM International Conference on Software Engineering. [[ICSE 2026]](https://doi.org/10.1145/3744916.3787768)
 
 **[New] A Survey on Testing and Analysis of Quantum Software**. <br>
 M. Paltenghi and M. Pradel (Under Submission). [[Pre-print 2024]](https://arxiv.org/abs/2410.00650)
